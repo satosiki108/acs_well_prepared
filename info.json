@@ -5,7 +5,6 @@
   "Desc":"Mod นี้จะเพิ่มประสบการณ์เริ่มต้นเพื่อรับคะแนนพิเศษ (+4, +14, +34, +74) และศิษย์เริ่มต้น (+3, +4)",
   "Author":"DeliveryService(Creator) & Tz_TonZa(Modify)",
   "UIPackage":null,
-  "Flag":926445391,
   "Tags":["Function","Content","ExcludeRealmsHeaven","Non-Chinese","Usability","Non-Chinese"],
   "IncreasedDesc":"1.1 - แก้ไขคำพิมพ์ผิดและการจัดรูปแบบ\n1.2 - แก้ไขการจัดกลุ่มการอ้างอิงถึงเวอร์ชั่นเก่าสำหรับผู้ติดตามเพิ่มเติมที่เริ่มต้นเรื่องราว (และเพิ่มผู้แปลไทยโดย : Ducking Cloud)",
   "IsInsideCreat":false,
