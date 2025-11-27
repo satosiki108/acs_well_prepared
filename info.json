@@ -1,7 +1,15 @@
 {
-	"Name":"Well Prepared",		
-	"DisplayName":"Well Prepared", 
-	"Desc":"MOD แปลภาษาไทยจาก ThaiByTheEmpty(Main) & Tz_TonZa(Sub)",		
-	"Author":"ThaiByTheEmpty(Main) & Tz_TonZa(Sub)",			
-	"Sort":"9999999",			
+    "Name":"Well Prepared",
+    "DisplayName":"Well Prepared",
+    "GameVersion":1.07,
+    "Version":1.2,
+    "Desc":"[作者]\r\n    deliveryservice\r\n[简介]\r\nMod นี้จะเพิ่มประสบการณ์เริ่มต้นเพื่อรับคะแนนพิเศษ (+4, +14, +34, +74) และศิษย์เริ่มต้น (+3, +4)",
+    "Author":"DeliveryService",
+    "UIPackage":null,
+    "Flag":926445391,
+    "Tags":["Function","Content","ExcludeRealmsHeaven","Non-Chinese","Usability","Non-Chinese"],
+    "IncreasedDesc":"1.1 - แก้ไขคำพิมพ์ผิดและการจัดรูปแบบ\n1.2 - แก้ไขการจัดกลุ่มการอ้างอิงถึงเวอร์ชั่นเก่าสำหรับผู้ติดตามเพิ่มเติมที่เริ่มต้นเรื่องราว (และเพิ่มผู้แปลไทยโดย : Ducking Cloud)",
+    "IsInsideCreat":false,
+    "Previews":[],
+    "ParentModInfo":null
 }
