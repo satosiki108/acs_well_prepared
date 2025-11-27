@@ -1,0 +1,34 @@
+﻿<Experiences><List>
+	<Experience Name="WellPreparedPoints1" Group="WellPreparedPoints">
+		<DisplayName>สวรรค์อวยพรเล็กน้อย</DisplayName>
+		<Desc>หลายชั่วโมงก่อนที่สำนักจะถูกโจมตี ท่านเจอเทพเซียนองค์หนึ่งที่ประทานพรให้ท่านเล็กน้อยหลังจากเสียสำนักไทอี้ไป\n\n\n[size=10]ได้รับ: [color=#D06508]+4 เปิร์คเริ่มต้น[/color][/size]</Desc>
+		<Point>-4</Point>
+	</Experience>
+	<Experience Name="WellPreparedPoints2" Group="WellPreparedPoints">
+		<DisplayName>สวรรค์และโชคชะตา</DisplayName>
+		<Desc>ท่านคือลูกหลานของสำนักไท้อี้ที่เหลือรอดอยู่สวรรค์จึงประทานพรให้ท่านเพื่อแนะนำศิษย์ที่ยังเหลือรอดให้ฟื้นฟูสำนักของท่าน\n\n\n[size=10]ได้รับ: [color=#D06508]+14 เปิร์คเริ่มต้น[/color][/size]</Desc>
+		<Point>-14</Point>
+	</Experience>
+	<Experience Name="WellPreparedPoints3" Group="WellPreparedPoints">
+		<DisplayName>บุตรเจ้าสำนัก</DisplayName>
+		<Desc>ก่อนที่ทุกอย่างจะสูญสิ้นบันทึกไท้อี้ได้มีแสงส่องลงมาสู่ตัวท่านทำให้ท่านได้รับคำอวยพรจากบรรพชนทั้งหมดในสำนัก\n\n\n[size=10]ได้รับ: [color=#D06508]+34 เปิร์คเริ่มต้น[/color][/size]</Desc>
+		<Point>-34</Point>
+	</Experience>
+	<Experience Name="WellPreparedPoints4" Group="WellPreparedPoints">
+		<DisplayName>ความหวังของสำนัก</DisplayName>
+		<Desc>ก่อนที่สำนักไท้อี้จะสูญสิ้นท่านเป็นคนเดียวที่มองทะลุไปถึงทะเลแห่งไฟแค้นเหล่าบรรพบุรุษมิอาจหลับฝันหากยังไม่เห็นตัวคนร้ายพลังในหอแก้วของสำนักได้ปลุกพลังในตัวท่าน\n\n\n[size=10]ได้รับ: [color=#D06508]+74 เปิร์คเริ่มต้น[/color][/size]</Desc>
+		<Point>-74</Point>
+	</Experience>
+	<Experience Name="MoreDisciples1" Group="WellPreparedMoreDisciples">
+		<DisplayName>สหายร่วมทุกข์</DisplayName>
+		<Desc>ความยากลำบากและช่วงเวลาแห่งความสุขที่ร่วมกันในนิกายได้เชื่อมโยงท่านกับศิษย์บางคน พวกเขาไว้ใจท่านและตัดสินใจหลบหนีไปกับท่าน\n\n\n[size=10]ได้รับ: [color=#D06508]+3 ศิษย์แห่งไท้อี้เพื่อร่วมทุกข์[/color][/size]</Desc>
+		<Point>8</Point>
+		<NpcSlot>3</NpcSlot>
+	</Experience>
+	<Experience Name="MoreDisciples2" Group="WellPreparedMoreDisciples">
+		<DisplayName>ผู้นำความหวัง</DisplayName>
+		<Desc>ท่านถูกลิขิตให้เป็นผู้สืบทอดสำนักศิษย์หลายคนจึงพร้อมที่จะยืนหยัดเพื่อไปกับท่าน\n\n\n[size=10]ได้รับ: [color=#D06508]+4 ศิษย์แห่งไท้อี้เพื่อร่วมทุกข์[/color][/size]</Desc>
+		<Point>12</Point>
+		<NpcSlot>4</NpcSlot>
+	</Experience>
+</List></Experiences>
